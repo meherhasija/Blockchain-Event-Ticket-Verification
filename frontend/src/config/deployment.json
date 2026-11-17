@@ -1,0 +1,15 @@
+
+{
+  "network": {
+    "name": "Ganache Local",
+    "chainId": 1337,
+    "rpcUrl": "http://127.0.0.1:7545"
+  },
+  "contract": {
+    "name": "EventTicketVerification",
+    "address": "0x80FBF5AAAcb9A2199daB8c631e4bf774cbCD1F3c",
+    "deployerAddress": "0x1BC06436C02E3881BEbaC933b0E8D75C4BF1aED7",
+    "deploymentBlock": 1,
+    "deploymentTxHash": ""
+  }
+}
